@@ -1,15 +1,13 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-	const [url, setUrl] = useState(
-		'mailto:test@example.com?subject=subject&body=body'
-	);
+	// const [url, setUrl] = useState(
+	// 	'mailto:test@example.com?subject=subject&body=body'
+	// );
 	const [name, setName] = useState('');
 	const [subject, setSubject] = useState('');
 	const [email, setEmail] = useState('');
 	const [message, setMessage] = useState('');
-
-	console.log(data);
 
 	const handleClick = (e) => {
 		e.preventDefault();
@@ -43,7 +41,6 @@ const Contact = ({ data }) => {
 								<input
 									value={name}
 									type='text'
-									defaultValue=''
 									size='35'
 									id='contactName'
 									name='contactName'
@@ -58,7 +55,6 @@ const Contact = ({ data }) => {
 								<input
 									value={email}
 									type='text'
-									defaultValue=''
 									size='35'
 									id='contactEmail'
 									name='contactEmail'
@@ -71,7 +67,6 @@ const Contact = ({ data }) => {
 								<input
 									value={subject}
 									type='text'
-									defaultValue=''
 									size='35'
 									id='contactSubject'
 									name='contactSubject'

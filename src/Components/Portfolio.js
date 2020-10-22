@@ -15,6 +15,7 @@ class Portfolio extends Component {
 								href={projects.url}
 								title={projects.title}
 								target='_blank'
+								rel='noopener noreferrer'
 							>
 								<img alt={projects.title} src={projectImage} />
 								<div className='overlay'>

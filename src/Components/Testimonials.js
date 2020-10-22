@@ -21,8 +21,12 @@ class Testimonials extends Component {
 								<p className='blog-title'>{blogs.title}</p>
 								<p className='blog-date'>{blogs.datePosted}</p>
 								<p className='blog-desc'>{blogs.description}</p>
-								<a href={blogs.url} target='_blank'>
-									<button type='button' class='read-more'>
+								<a
+									href={blogs.url}
+									target='_blank'
+									rel='noopener noreferrer'
+								>
+									<button type='button' className='read-more'>
 										Read Post
 									</button>
 								</a>
