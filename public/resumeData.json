@@ -1,0 +1,152 @@
+{
+	"main": {
+		"name": "Christopher Arsenault",
+		"occupation": "ReactJS Developer",
+		"description": "Full Stack React Developer by Day, Freelancer, Husband and Father of three by Night.",
+		"image": "headshot.jpg",
+		"bio": "My name is Christopher, I'm a Full Stack ReactJS Developer. Currently working at Kenna while also freelancing in my spare time. I have always loved problem solving and logic puzzles, so I found the transition into coding to be a natural fit for me. I've been fascinated with computers and the tech world since I was very little and cannot wait to continue to learn and grow in the web development world. When I'm not coding, I can be found in the kitchen whipping up a new dish or baking some tasty treats, spending time with my wife and kids or practicing my photography skills. I look forward to joining a team that shares my passion for coding and will continue to push me to reach new heights.",
+		"contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+		"email": "info@christopherarsenault.com",
+		"website": "https://christopherarsenault.com",
+		"resumedownload": "http://christopherarsenault.com/Christopher_Arsenault_Resume.pdf",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/clarsena",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/clarsena/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "github",
+				"url": "http://github.com/clarsena",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "",
+		"education": [
+			{
+				"school": "Juno College",
+				"degree": "Web Development Immersive Bootcamp",
+				"graduated": "September 2018",
+				"description": "Full Time Immersive Web Development Program focusing on front-end development."
+			}
+		],
+		"work": [
+			{
+				"company": "Kenna",
+				"title": "Application Developer",
+				"years": "June 2019 - Present",
+				"description": "Develop responsive web pages for new & current client projects using HTML/CSS, JavaScript, jQuery, React & Redux. Work in development environments Lotus Notes, Domino & VSCode. Write and maintain code agents in LotusScript and SQL. Track and coordinate job tasks using Jira and Confluence"
+			},
+			{
+				"company": "Freelance",
+				"title": "Web Developer",
+				"years": "October 2018 - Present",
+				"description": "Create websites, from scratch, according to the client's specifications (both from PSD designs or without a pre-determined design). Update and maintain currently active web sites, changing content / making additions to code."
+			},
+			{
+				"company": "Consumer Vision",
+				"title": "Call Center Manager / Data Entry Specialist",
+				"years": "December 2008 - December 2017",
+				"description": "Managed staffing levels throughout the shift to balance workflow and meet demand. Provided feedback to interviewers, identified those who had performance challenges, and provided coaching when applicable. Used Research Tracker database and MS Excel to manage projects. Successfully managed multiple focus group projects from planning to completion in compliance with client requirements."
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "80%"
+			},
+			{
+				"name": "NodeJs",
+				"level": "40%"
+			},
+			{
+				"name": "HTML5",
+				"level": "100%"
+			},
+			{
+				"name": "CSS",
+				"level": "95%"
+			},
+			{
+				"name": "Git",
+				"level": "70%"
+			},
+			{
+				"name": "MongoDB",
+				"level": "55%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Nu-Drapes & Interiors",
+				"category": "A full-fledged e-commerce built with headless WooCommerce and React front-end. Payments are process through PayPal.",
+				"image": "mock_up_project_6.png",
+				"url": "https://nudrapes.christopherarsenault.com/"
+			},
+			{
+				"title": "Slicks Slices",
+				"category": "Built using Gatsby and Sanity, a site made to show off the power of Gatsby SSR with Sanity's CMS tools.",
+				"image": "mock_up_project_7.png",
+				"url": "https://infallible-einstein-4d2df5.netlify.app/"
+			},
+			{
+				"title": "Contact Keeper",
+				"category": "Built using the MERN stack, Contact Keeper allows users to register, login and keep track of their own unique contact list.",
+				"image": "mock_up_project_1.png",
+				"url": "https://calm-badlands-12491.herokuapp.com/"
+			},
+			{
+				"title": "CRWN Clothing",
+				"category": "Built using React and Redux. CRWN Clothing is the beginning of an e-commerce site. Inventory / users are stored on Firebase.",
+				"image": "mock_up_project_2.png",
+				"url": "https://tranquil-chamber-54809.herokuapp.com/"
+			},
+			{
+				"title": "Karaoke Setlist",
+				"category": "Using both the Spotify & Lyrics API, the user logs onto their Spotify account and searches for songs they wish to sing along to.",
+				"image": "mock_up_project_3.png",
+				"url": "https://karaoke.christopherarsenault.com/"
+			},
+			{
+				"title": "Recipe Finder",
+				"category": "Using the Yummly API, search for recipes by name or ingredient. Filter the list down by course / cuisine or dietary restriction.",
+				"image": "mock_up_project_4.png",
+				"url": "http://christopherarsenault.com/recipes/"
+			}
+		]
+	},
+	"blogs": {
+		"blogs": [
+			{
+				"image": "blog_1.jpg",
+				"title": "Getting Started with Git - The Basics",
+				"datePosted": "Sunday August 5, 2018",
+				"description": "Git is currently one of, if not, the most widely used version control systems around. It is currently released under the open source license, making it free to use but what really makes it stand out is its branching model...",
+				"url": "https://medium.com/@christopher.arsenault82/getting-started-with-git-the-basics-64a0a48727f6"
+			},
+			{
+				"image": "blog_2.jpg",
+				"title": "Using CSS Custom Properties / CSS Variables",
+				"datePosted": "Sunday August 12, 2018",
+				"description": "Variables are ways to hold pieces of information that can be used throughout your code. They are an integral part of any programming language and are now something that we can also use within our CSS...",
+				"url": "https://medium.com/@christopher.arsenault82/using-css-custom-properties-css-variables-f524bd7e6d3f"
+			},
+			{
+				"image": "blog_3.jpg",
+				"title": "Making Your Code Editor Feel Like Home  - Customizing VS Code",
+				"datePosted": "Tuesday September 11, 2018",
+				"description": "As developers / coders, we spend a lot of time in our editor of choice, heck, we practically live there. Why not make it more comfortable, dress it up as you please and make it somewhere you enjoy spending all that time...",
+				"url": "https://medium.com/datadriveninvestor/making-your-code-editor-feel-like-home-customizing-vs-code-b858d4938cb"
+			}
+		]
+	}
+}
