@@ -750,7 +750,7 @@ call-to-action .button {
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
 
-#testimonials {
+#blogs {
 	background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center
 		center;
 	background-size: cover !important;
@@ -764,26 +764,26 @@ call-to-action .button {
 	display: flex;
 	justify-content: center;
 }
-#testimonials .text-container {
+#blogs .text-container {
 	padding-top: 96px;
 	padding-bottom: 66px;
 }
-#testimonials h1 {
+#blogs h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
 	margin-bottom: 40px;
 }
-#testimonials h1 span {
+#blogs h1 span {
 	/* display: none; */
 	border-bottom: 3px solid #11abb0;
 	padding-bottom: 6px;
 }
-#testimonials .header-col {
+#blogs .header-col {
 	padding-top: 9px;
 }
-/* #testimonials .header-col h1:before {
+/* #blogs .header-col h1:before {
 	font-family: 'FontAwesome';
 	content: '\f10d';
 	padding-right: 10px;
@@ -795,16 +795,16 @@ call-to-action .button {
 } */
 
 /*	Blockquotes */
-#testimonials > div {
+#blogs > div {
 	/* margin: 0 0px 30px 0px; */
 	padding-left: 0;
 	position: relative;
 	/* text-shadow: 0px 1px 3px rgba(0, 0, 0, 1); */
 }
-#testimonials div:before {
+#blogs div:before {
 	content: none;
 }
-#testimonials div p {
+#blogs div p {
 	font-family: 'opensans-regular', sans-serif;
 	padding: 0;
 	font-size: 20px;
@@ -812,40 +812,40 @@ call-to-action .button {
 	color: #333;
 	line-height: 25px;
 }
-/* #testimonials div cite {
+/* #blogs div cite {
 	display: block;
 	font-size: 12px;
 	font-style: normal;
 	line-height: 18px;
 	color: #fff;
 } */
-/* #testimonials blockquote cite:before {
+/* #blogs blockquote cite:before {
 	content: '\2014 \0020';
 }
-#testimonials blockquote cite a,
-#testimonials blockquote cite a:visited {
+#blogs blockquote cite a,
+#blogs blockquote cite a:visited {
 	color: #8b9798;
 	border: none;
 } */
-#testimonials .blog-container {
+#blogs .blog-container {
 	display: flex;
 	padding-left: 15px;
 	padding-top: 15px;
 	background-color: #ffffff;
 	margin-bottom: 25px;
 }
-#testimonials .blog-image {
+#blogs .blog-image {
 	display: flex;
 	flex: 0 0 15%;
 	align-items: center;
 }
-#testimonials .blog-info {
+#blogs .blog-info {
 	padding: 10px 10px 10px 20px;
 }
-#testimonials .blog-title {
+#blogs .blog-title {
 	margin-bottom: 0;
 }
-#testimonials .blog-date {
+#blogs .blog-date {
 	font-size: 18px;
 }
 
@@ -1046,7 +1046,7 @@ call-to-action .button {
 	background-color: #11abb0;
 }
 #contact button.submit,
-#testimonials button.read-more {
+#blogs button.read-more {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
@@ -1058,14 +1058,14 @@ call-to-action .button {
 	border-radius: 3px;
 	margin-left: 26%;
 }
-#testimonials button.read-more {
+#blogs button.read-more {
 	margin-left: 0;
 }
 #contact button.submit:hover {
 	color: #0d0d0d;
 	background: #fff;
 }
-#testimonials button.read-more:hover {
+#blogs button.read-more:hover {
 	background: #f06000;
 	color: #333333;
 }
