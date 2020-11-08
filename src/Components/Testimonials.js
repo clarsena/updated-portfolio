@@ -38,7 +38,7 @@ class Testimonials extends Component {
 		}
 
 		return (
-			<section id='testimonials'>
+			<section id='blogs'>
 				<div className='text-container'>
 					<div className='row'>
 						<h1>
